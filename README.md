@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nottoosmart
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python and C++
